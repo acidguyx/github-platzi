@@ -1,6 +1,8 @@
 body {
     text-align: center;
     font-family: "Arial";
+    text-align: center;
+    font-size: 16px;
     color: rgb(19, 19, 19);
 }
 h1{
@@ -8,13 +10,18 @@ h1{
     color: black;
 }
 #cabecera {
-    background: #33A;
+    background: #37488b;
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
     box-shadow: 0 0 0.5em #000;
 }
+#cabecera #logo {
+    width: 40px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline {
     margin: 0 0 0 0;
     font-weight: normal;
