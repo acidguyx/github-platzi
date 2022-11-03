@@ -8,8 +8,6 @@ este es Master1
 
 este es Master2
 
-este es Master1
-
 Experimento 1
 
 Experimento 2
