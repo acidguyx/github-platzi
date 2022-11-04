@@ -15,6 +15,4 @@ Un blog grandisio para aprender a usar git y github de una manera profesional
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
 
-
-linea agregada despues.
 * Disponible para Todas las edades
