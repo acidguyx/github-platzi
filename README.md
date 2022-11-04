@@ -13,6 +13,7 @@ Un blog grandisio para aprender a usar git y github de una manera profesional
 * Trucos muy locos del profesor
 * Las Personalidades multiples de Freddy
 * Creado por el increible Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 
 linea agregada despues.
