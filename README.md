@@ -14,6 +14,7 @@ Un blog grandisio para aprender a usar git y github de una manera profesional
 * Las Personalidades multiples de Freddy
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para Todas las edades
 
 
 linea agregada despues.
