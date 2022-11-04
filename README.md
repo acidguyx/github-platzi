@@ -6,4 +6,14 @@ Un blog grandisio para aprender a usar git y github de una manera profesional
 
 ** "este es un readme no oficial" **
 
+## En este curso Vemos de Todo
+* Todos los comandos Git
+* El Flujo de Trabajo de Github
+* El verdadero amor por las buenas practicas
+* Trucos muy locos del profesor
+* Las Personalidades multiples de Freddy
+* Creado por el increible Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+
+
 linea agregada despues.
